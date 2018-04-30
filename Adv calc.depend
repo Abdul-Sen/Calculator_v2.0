@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1525136143 source:c:\users\seneca cpa\desktop\c projects\adv calc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
